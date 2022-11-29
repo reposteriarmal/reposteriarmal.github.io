@@ -13,14 +13,14 @@ import {
 
 const SIN_ALUMNOS = /* html */
   `<option value="">
-    -- Sin Alumnos --
+    -- Sin Repostería --
   </option>`;
 
 const firestore = getFirestore();
 const daoRol = firestore.
   collection("Rol");
 const daoAlumno = firestore.
-  collection("Alumno");
+  collection("Reposteria");
 const daoUsuario = firestore.
   collection("Usuario");
 
