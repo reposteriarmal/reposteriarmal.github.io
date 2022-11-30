@@ -70,14 +70,5 @@ p label>* {
   width: 100%;
 }
 
-#contenido{
-  flex: 1;
-	margin-right: 20px;
-	padding-top: 30px;
-	background-color: #F5CDB6;
-	border-radius: 10px;
-	box-shadow: rgb(150, 150, 150) 5px 5px 20px;
-}
-
 
 
