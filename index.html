@@ -46,10 +46,10 @@
   <link rel="stylesheet"
     href="css/estilos.css">
 </head>
-<body>
+<body id="contenido">
  <form name="forma">
     <mi-nav></mi-nav>
-    <header>
+    <header id="cabecera">
       <h1>Sesión</h1>
       <div class="herramientas">
         <button
@@ -59,12 +59,12 @@
         </button>
       </div>
     </header>
-    <figure>
+    <figure id="img">
       <img id="avatar" src=""
         alt="Avatar">
     </figure>
     <p>
-      <label>
+      <label id="cuadro">
         Email
         <output name="email">
           <mi-progreso>
@@ -73,7 +73,7 @@
       </label>
     </p>
     <p>
-      <label>
+      <label id="cuadro">
         Nombre
         <output name="nombre">
           <mi-progreso>
@@ -81,7 +81,7 @@
         </output>
       </label>
     </p>
-    <mi-footer></mi-footer>
+    <mi-footer id="cuadro"></mi-footer>
   </form>
   <script type="module"
     src="js/CtrlSesion.js">
