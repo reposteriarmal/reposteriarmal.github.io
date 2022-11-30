@@ -71,14 +71,12 @@ p label>* {
 }
 
 #contenido{
-  display: flex;
-	justify-content: center;
-	width: 96%;
-	height: 96%;
-	padding: 5%;
-	background-color: #B2939A;
-	border-top: 1px solid #B2939A;
-	border-bottom: 1px solid #B2939A;
+  flex: 1;
+	margin-right: 20px;
+	padding-top: 30px;
+	background-color: #F5CDB6;
+	border-radius: 10px;
+	box-shadow: rgb(150, 150, 150) 5px 5px 20px;
 }
 
 
