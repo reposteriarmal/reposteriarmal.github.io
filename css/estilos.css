@@ -80,3 +80,9 @@ p label>* {
 	border-top: 1px solid #B2939A;
 	border-bottom: 1px solid #B2939A;
 }
+
+#img{
+	max-width: 98%;
+	padding: 1%;
+	border: 1px solid;
+}
