@@ -3,13 +3,11 @@
 @import "listas.css";
 
 
-* {
-	margin: 0px;
-	padding: 0px;
-}
-
 :root {
   font-family: sans-serif;
+  --col-active: #4646462c;
+  --color-header: white;
+  --colorMiNav: white;
 }
 
 body {
@@ -25,11 +23,14 @@ body {
   background-image: url(../img/fondo.png);
   text-align: center;
 }
+}
 
 header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  background-color:
+    var(--color-header);
 }
 
 .herramientas {
@@ -69,6 +70,3 @@ p label>* {
   box-sizing: border-box;
   width: 100%;
 }
-
-
-
