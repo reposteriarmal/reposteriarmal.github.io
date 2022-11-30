@@ -74,7 +74,7 @@ p label>* {
   display: flex;
 	justify-content: center;
 	width: 96%;
-	height: 300px;
+	height: 96%px;
 	padding: 5%;
 	background-color: #B2939A;
 	border-top: 1px solid #B2939A;
@@ -85,8 +85,8 @@ p label>* {
 	display: flex;
 	justify-content: center;
 	width: 96%;
-	height: 50px;
-	padding: 0% 2%;
+	height: 100px;
+	padding: 5%;
 	background-color: #9ba5e0;
 	border-top: 1px solid #fcc5d2;
 	border-bottom: 1px solid #725058;
