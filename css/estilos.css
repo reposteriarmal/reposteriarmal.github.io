@@ -81,12 +81,6 @@ p label>* {
 	border-bottom: 1px solid #B2939A;
 }
 
-#img{
-	max-width: 98%;
-	padding: 1%;
-	border: 1px solid;
-}
-
 #listamenu{
 	display: flex;
 	justify-content: center;
