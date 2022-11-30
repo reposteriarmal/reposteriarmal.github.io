@@ -2,14 +2,7 @@ mi-nav {
   display: block;
   background-color:
     var(--colorMiNav);
-  display: flex;
-	justify-content: center;
-	width: 96%;
-	height: 50px;
-	padding: 0% 2%;
 	background-color: #9ba5e0;
-	border-top: 1px solid #fcc5d2;
-	border-bottom: 1px solid #725058;
 }
 
 mi-nav ul {
@@ -20,10 +13,6 @@ mi-nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: inline-block;
-	height: 35px;
-	padding: 15px 10px 0px 10px;
-	margin-right: 5px;
 }
 
 mi-nav ul li {
