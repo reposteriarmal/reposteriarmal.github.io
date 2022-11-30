@@ -74,7 +74,7 @@ p label>* {
   display: flex;
 	justify-content: center;
 	width: 96%;
-	height: 50px;
+	height: 300px;
 	padding: 5%;
 	background-color: #B2939A;
 	border-top: 1px solid #B2939A;
@@ -85,15 +85,6 @@ p label>* {
 	max-width: 98%;
 	padding: 1%;
 	border: 1px solid;
-}
-
-#listamenu :hover{
-	display: block;
-}
-
-#listamenu :hover {
-	background-color: #705B60;
-	border-radius: 0px 0px 5px 5px;
 }
 
 #listamenu{
