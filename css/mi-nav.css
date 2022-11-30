@@ -2,6 +2,7 @@ mi-nav {
   display: block;
   background-color:
     var(--colorMiNav);
+  background-color: #B2939A;
 }
 
 mi-nav ul {
